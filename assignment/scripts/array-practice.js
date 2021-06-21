@@ -17,7 +17,7 @@ console.log("Favorite foods are: ", favoriteFood)
 
 // 2. Array.length - tells you how many items are in the array
 console.log('--- 2. Length of an array ---');
-console.log(favoriteFood.length)
+console.log("Number of favorite food is: ", favoriteFood.length)
 
 // Example: How many animals are in the array?
 console.log('Number of animals:', animalArray.length);
